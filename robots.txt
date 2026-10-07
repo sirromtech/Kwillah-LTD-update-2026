@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
+Allow: /img/
+Allow: /favicon.ico
 Sitemap: https://kwilahltd.com/sitemap.xml
